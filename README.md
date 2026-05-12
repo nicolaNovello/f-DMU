@@ -1,6 +1,6 @@
 <div align="center">
    
-# A Unified Framework for Diffusion Model Unlearning <br /> with f-Divergence
+# A Unified Framework for Diffusion Model Unlearning with f-Divergence
 
 [Nicola Novello](https://scholar.google.com/citations?user=4PPM0GkAAAAJ&hl=en), [Federico Fontana](https://scholar.google.com/citations?user=5W5RkQgAAAAJ&hl=en), [Luigi Cinque](https://scholar.google.com/citations?user=sDe4b9UAAAAJ&hl=en), [Deniz Gündüz](https://scholar.google.com/citations?user=MbmKROkAAAAJ&hl=en), [Andrea M. Tonello](https://scholar.google.com/citations?user=qBiseEsAAAAJ&hl=en)<br />
 
