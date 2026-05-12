@@ -12,8 +12,8 @@ Official repository of the paper "A Unified Framework for Diffusion Model Unlear
 
 <div align="center">
 
-[![license](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/nicolaNovello/f-DM-Unlearning/blob/main/LICENSE)
-[![Hits](https://hits.sh/github.com/nicolaNovello/f-DM-Unlearning.svg?label=Visitors&color=30a704)](https://hits.sh/github.com/nicolaNovello/f-DM-Unlearning/)
+[![license](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/nicolaNovello/f-DMU/blob/main/LICENSE)
+[![Hits](https://hits.sh/github.com/nicolaNovello/f-DMU.svg?label=Visitors&color=30a704)](https://hits.sh/github.com/nicolaNovello/f-DMU/)
 
 </div>
 
