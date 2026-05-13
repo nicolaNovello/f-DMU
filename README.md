@@ -21,7 +21,7 @@ Official repository of the paper "A Unified Framework for Diffusion Model Unlear
 
 # 💻 How to run the code
 
-The section will be completed soon...
+The section will be completed soon... For SD2.1 we used the original link to download the model .... Now that repository is not available anymore, but it is possible to use the community version of the same model from ...
 
 ## Closed-Form Losses
 
