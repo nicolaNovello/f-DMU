@@ -21,11 +21,19 @@ Official repository of the paper "A Unified Framework for Diffusion Model Unlear
 
 # 💻 How to run the code
 
-The section will be completed soon... For SD2.1 we used the original link to download the model .... Now that repository is not available anymore, but it is possible to use the community version of the same model from ...
+The script 'run_experiment.sh' runs the code to erase Van Gogh's artistic style.
+
+[Additional information and scripts will be uploaded soon...]
+
+For SD v2.1, we used the original link to download the model and run all experiments. Now, the original repository is not available anymore, but it is possible to use the community version of the same model from [https://huggingface.co/sd2-community/stable-diffusion-2-1](https://huggingface.co/sd2-community/stable-diffusion-2-1).
 
 ## Closed-Form Losses
 
+'run_experiment.sh' runs the experiment for MSE, squared Hellinger distance, and Pearson $\chi^2$ divergence.
+
 ## Variational Losses
+
+Coming soon...
 
 ---
 
